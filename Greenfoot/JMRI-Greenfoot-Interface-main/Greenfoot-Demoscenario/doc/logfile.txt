@@ -1,0 +1,36 @@
+Class documentation
+<---- javadoc command: ---->
+S:\Program Files\Greenfoot\jdk\bin\javadoc.exe
+-author
+-version
+-nodeprecated
+-protected
+-Xdoclint:none
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+11
+-classpath
+S:\Program Files\Greenfoot\lib\extensions\greenfoot.jar;S:\Program Files\Greenfoot\lib\bluejcore.jar;S:\Program Files\Greenfoot\lib\bluejeditor.jar;S:\Program Files\Greenfoot\lib\bluejext.jar;S:\Program Files\Greenfoot\lib\junit-4.11.jar;S:\Program Files\Greenfoot\lib\hamcrest-core-1.3.jar;S:\Program Files\Greenfoot\lib\bluej.jar;S:\Program Files\Greenfoot\lib\classgraph-4.2.6.jar;S:\Program Files\Greenfoot\lib\diffutils-1.2.1.jar;S:\Program Files\Greenfoot\lib\commons-logging-api-1.1.2.jar;S:\Program Files\Greenfoot\lib\jl1.0.1.jar;S:\Program Files\Greenfoot\lib\opencsv-2.3.jar;S:\Program Files\Greenfoot\lib\xom-1.2.9.jar;S:\Program Files\Greenfoot\lib\lang-stride.jar;S:\Program Files\Greenfoot\lib\nsmenufx-2.1.4.jar;S:\Program Files\Greenfoot\lib\richtextfx-fat-0.9.0.jar;S:\Program Files\Greenfoot\lib\guava-17.0.jar;S:\Program Files\Greenfoot\lib\httpclient-4.1.1.jar;S:\Program Files\Greenfoot\lib\httpcore-4.1.jar;S:\Program Files\Greenfoot\lib\httpmime-4.1.1.jar;S:\Program Files\Greenfoot\lib\javafx\lib\javafx.base.jar;S:\Program Files\Greenfoot\lib\javafx\lib\javafx.controls.jar;S:\Program Files\Greenfoot\lib\javafx\lib\javafx.fxml.jar;S:\Program Files\Greenfoot\lib\javafx\lib\javafx.graphics.jar;S:\Program Files\Greenfoot\lib\javafx\lib\javafx.media.jar;S:\Program Files\Greenfoot\lib\javafx\lib\javafx.properties.jar;S:\Program Files\Greenfoot\lib\javafx\lib\javafx.swing.jar;S:\Program Files\Greenfoot\lib\javafx\lib\javafx.web.jar;C:\Users\l-bie\Documents\GitHub\JMRI-Greenfoot-Interface\target\jmri-greenfoot-interface-0.0.1-jar-with-dependencies.jar;C:\Users\l-bie\Documents\GitHub\JMRI-Greenfoot-Interface\Greenfoot-Demoscenario
+-d
+C:\Users\l-bie\Documents\GitHub\JMRI-Greenfoot-Interface\Greenfoot-Demoscenario\doc
+-encoding
+UTF-8
+-charset
+UTF-8
+C:\Users\l-bie\Documents\GitHub\JMRI-Greenfoot-Interface\Greenfoot-Demoscenario\TurnoutType.java
+<---- end of javadoc command ---->
+Loading source file C:\Users\l-bie\Documents\GitHub\JMRI-Greenfoot-Interface\Greenfoot-Demoscenario\TurnoutType.java...
+Constructing Javadoc information...
+Standard Doclet version 11.0.2
+Building tree for all the packages and classes...
+Generating C:\Users\l-bie\Documents\GitHub\JMRI-Greenfoot-Interface\Greenfoot-Demoscenario\doc\TurnoutType.html...
+Generating C:\Users\l-bie\Documents\GitHub\JMRI-Greenfoot-Interface\Greenfoot-Demoscenario\doc\package-summary.html...
+Generating C:\Users\l-bie\Documents\GitHub\JMRI-Greenfoot-Interface\Greenfoot-Demoscenario\doc\constant-values.html...
+Building index for all the packages and classes...
+Building index for all classes...
+Generating C:\Users\l-bie\Documents\GitHub\JMRI-Greenfoot-Interface\Greenfoot-Demoscenario\doc\allclasses.html...
+Generating C:\Users\l-bie\Documents\GitHub\JMRI-Greenfoot-Interface\Greenfoot-Demoscenario\doc\allclasses.html...
+Generating C:\Users\l-bie\Documents\GitHub\JMRI-Greenfoot-Interface\Greenfoot-Demoscenario\doc\index.html...

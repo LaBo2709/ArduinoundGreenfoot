@@ -1,0 +1,12 @@
+{
+   "network": {
+      "webserver": {
+         "host": "127.0.0.1",
+         "port": "12080"
+      },
+      "withrottleserver": {
+         "host": "127.0.0.1",
+         "port": "12090"
+      }
+   }
+}

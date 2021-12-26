@@ -1,0 +1,25 @@
+-classpath
+'C:/Users/l-bie/.m2/repository/javax/websocket/javax.websocket-client-api/1.1/javax.websocket-client-api-1.1.jar;C:/Users/l-bie/.m2/repository/org/json/json/20210307/json-20210307.jar'
+-encoding
+'Cp1252'
+-private
+-sourcepath
+'C:/Users/l-bie/Documents/GitHub/JMRI-Greenfoot-Interface/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2021. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/l-bie/Documents/GitHub/JMRI-Greenfoot-Interface/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'jmri-greenfoot-interface 0.0.1 API'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/11/docs/api' 'C:/Users/l-bie/Documents/GitHub/JMRI-Greenfoot-Interface/target/javadoc-bundle-options'
+-nohelp
+-use
+-version
+-windowtitle
+'jmri-greenfoot-interface 0.0.1 API'
